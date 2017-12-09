@@ -10,10 +10,6 @@ import org.openqa.selenium.remote.UnreachableBrowserException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.concurrent.TimeUnit;
-
-
-//https://github.com/iljapavlovs/cucumber-selenide-maven/tree/master/src/test/java/lv/iljapavlovs/cucumber/core
 public class Driver {
 
     public static WebDriver aDriver;
