@@ -9,9 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import support.Driver;
 
-/**
- * Created by zsuleiman on 04/02/2017.
- */
+
 public class SearchPage extends Driver{
 
 
